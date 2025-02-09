@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Dec  8 20:25:14 2022
 
 @author: Jose
 """

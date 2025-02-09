@@ -1,0 +1,7 @@
+# OR-Tools para optimización lineal y combinatoria
+ortools==9.7.2996
+
+# Librerías para manejo de Excel (asumiendo que IOfunctionsExcel usa estas)
+pandas==1.5.3
+openpyxl==3.1.2
+xlrd==2.0.1
